@@ -19,7 +19,7 @@ public class Arithmetic {
 		System.out.println("Multiplication of two number is "+(a*b));
 		System.out.println("Division of two number is "+(a/b));
 		System.out.println("Modulus of two number is "+(a%b));
-		System.out.println("New changes to this file");
+		
 
 
 	}
